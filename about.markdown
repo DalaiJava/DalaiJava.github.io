@@ -8,10 +8,34 @@ nav_order: 2
 
 ---
 ## General
-> We are a group of students attending the University of York attending (some form of) Computer Science! This is our [GitHub](https://github.com/Luceapuce/SEPR-project) pages for the [SEPR module](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00008I/2019-20) where we have to create a game where aliens invade York! 
+> We are a group of students attending the University of York attending (some form of) Computer Science! This is our [GitHub](https://github.com/jk1186/SEPR-Assesment-3) pages for the [SEPR module](https://www.york.ac.uk/students/studying/manage/programmes/module-catalogue/module/COM00008I/2019-20) where we have to create a game where aliens invade York! 
 
+## Members of Dalai Java:
+---
+> ### Jack Kershore
+> > Role: Project Manager
 
-## Members: 
+---
+> ### Peter Clark
+> > Role: Quality Assurance
+
+---
+> ### James Hau
+> > Role: Art/Developer
+
+---
+> ### William Marr
+> > Role: Art
+
+---
+> ### Max Lloyd
+> > Role: Developer/Web Developer
+
+---
+> ### Yuqing Gong
+> > Role: Developer
+
+## Members of NPStudios(project founders): 
 ---
 > ### Lucy Ivatt:
 > > Course: MEng Computer Science with Year in Industry 
