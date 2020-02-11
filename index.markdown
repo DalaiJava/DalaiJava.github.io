@@ -15,3 +15,6 @@ This is our SEPR group, named Dalai Java, GitHub pages (We have taken over NPstu
 ### [Assessment 2](https://npstudios.github.io/assessments/#assessment-2)
 > Here you can find all of our documentation for assessment 2 for this module. 
 
+### [Assessment 3](https://npstudios.github.io/assessments/#assessment-3)
+> Here you can find all of our documentation for assessment 3 for this module. 
+
