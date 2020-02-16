@@ -56,6 +56,7 @@ nav_order: 3
 > > * Unit Test Traceability: [PDF](/files/Unit Test Traceability.pdf)
 > > * traceability_matrix.pdf: [PDF](/files/traceability_matrix.pdf)
 > * Updates on Assessment 2 Deliverables: [PDF](/files/Updates2.pdf)
+> > * Methods Selection and Planning: [PDF](/files/Updated Methods.pdf)
 > > * Architecture: [PNG](/files/Architecture.png)
 
 
