@@ -58,6 +58,7 @@ nav_order: 3
 > * Change Management: [PDF](/files/Change3.pdf)
 > > * Methods Selection and Planning: [PDF](/files/Updated Methods.pdf)
 > > * Architecture: [PNG](/files/Architecture.png)
+> > * Requirements: [PDF](/files/Updated Statement of Requirements.pdf)
 
 
 ---
