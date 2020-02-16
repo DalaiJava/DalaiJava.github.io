@@ -50,6 +50,8 @@ nav_order: 3
 ---
 ## Assessment 3
 
+> *Updates on Assessment 2 Deliverables: [PDF](/files/Updates2.pdf)
+> > * Architecture: [PNG](/files/Architecture.png)
 > * Zip File:
 
 ---
