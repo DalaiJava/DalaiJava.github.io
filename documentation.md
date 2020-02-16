@@ -54,7 +54,7 @@ nav_order: 3
 > * Testing Report: [PDF](/files/Updated Testing Report.pdf)
 > > * Test Documentation: [PDF](/files/test_documentation.pdf)
 > > * Unit Test Traceability: [PDF](/files/Unit Test Traceability.pdf)
-> > * traceability_matrix.pdf: [PDF](/files/traceability_matrix.pdf)
+> > * Traceability Matrix: [PDF](/files/traceability_matrix.pdf)
 > * Change Management: [PDF](/files/Change3.pdf)
 > > * Methods Selection and Planning: [PDF](/files/Updated Methods.pdf)
 > > * Architecture: [PNG](/files/Architecture.png)
