@@ -60,6 +60,9 @@ nav_order: 3
 > > * Methods Selection and Planning: [PDF](/files/Updated Methods.pdf)
 > > * Architecture: [PNG](/files/Architecture.png)
 > > * Requirements: [PDF](/files/Updated Statement of Requirements.pdf)
+> * User Manual:
+> > * [PDF](/files/User_Manual_PDF.pdf)
+> > * [Editable](/files/User_Manual_Edit.docx)
 
 
 ---
